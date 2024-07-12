@@ -48,7 +48,7 @@
 - [Клиент-сервер](https://docs.google.com/document/d/1F6pcXTuFf0cDaKHQX64wUthZ1oLbkggC9isMog_Br9A/edit) (*Доп. задание.Известно, что проблема в данных, которые уходят в POST запросе по адресу, который начинается с https://api.mindbox.ru Необходимо найти запрос, в котором есть нужные параметры, найти, как же выглядят параметры deviceUUID, requestID и status, и приложить скриншот искомого превью в таблицу с решениями.*)
 
 
-## Проекты с Java:notebook_with_decorative_cover:
+## Проекты с Java :notebook_with_decorative_cover:
 
 - [Изменения логики сортировки билетов](https://github.com/Margarita2113/Ticket)
 - [Необходимо было разработать класс, управляющий турниром игроков](https://github.com/Margarita2113/Competitions-for-players)
