@@ -32,19 +32,6 @@
   
   
 
-![image](https://github.com/user-attachments/assets/78cbbc84-feef-4a00-9aad-69f364ae7fae)
-![image](https://github.com/user-attachments/assets/219453e4-1914-4f0e-bc3e-8313e0b95307)
-![image](https://github.com/user-attachments/assets/03b7e70b-3abb-4525-b325-82d036a467ac)
-![image](https://github.com/user-attachments/assets/1ebf23ec-d45d-4236-b6ca-e25a13c7b4cb)
-
-![image](https://github.com/user-attachments/assets/6b5f1cd1-4a61-4798-b5cd-b64e2d411348)
-![image](https://github.com/user-attachments/assets/631ee2c9-6247-4dbc-94ce-445b85585d21)
-![image](https://github.com/user-attachments/assets/7cae8b0e-372c-433d-a96c-77f299c44363)
-
-
-
-![image](https://github.com/user-attachments/assets/0a23e8ba-414a-457b-96f7-8937c8c71ce0)
-![image](https://github.com/user-attachments/assets/4ec165c1-d689-462b-917f-821b721054b2)
 
 # Примеры моих работ :mortar_board:
 
